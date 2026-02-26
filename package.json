@@ -17,6 +17,6 @@
   "homepage": "https://github.com/Lentswe215/simple-calculator-exercises#readme",
   "description": "",
   "dependencies": {
-    "jasmine": "^3.5.0"
+    "jasmine": "^3.6.1"
   }
 }
